@@ -1,4 +1,4 @@
-# Foodyroo
+# Foody
 ## A model food delivery app in react
 ### Planning of the app
 **Think of a cool name for your app**\
