@@ -1,65 +1,11 @@
-# FOODY APP 🚀
 
-
-# Parcel
-- Dev Build
-- Local Server
-- HMR = Hot Module Replacement
-- File Watching Algorithm - written in C++
-- Caching - Faster Builds
-- Image Optimization
-- Minification
-- Bundling
-- Compress
-- Consistent Hashing
-- Code Splitting
-- Differential Bundling - support older browsers
-- Diagnostic
-- Error Handling
-- HTTPs
-- Tree Shaking - remove unused code
-- Different dev and prod bundles
-
-
-
-# Food Contents
-
-
-/**
- * Header
- *  - Logo
- *  - Nav Items
- * Body
- *  - Search
- *  - RestaurantContainer
- *    - RestaurantCard
- *      - Img
- *      - Name of Res, Star Rating, cuisine, delery tie
- * Footer
- *  - Copyright
- *  - Links
- *  - Address
- *  - Contact
- */
-
-
-
- Two types of Export/Import
-
-
-- Default Export/Import
-
-export default Component;
-import Component from "path";
-
-
-- Named Export/Import
-
-export const Component;
-import {Component} from "path";
-
-
-# React Hooks
- (Normal JS utility functions)
-- useState() - Superpowerful State Variables in react
-- useEffect()
+#### Commit 6
+useEffect Hook to see when it is called? (before or after render)
+dependency array in useEffect Hook.
+developer console by putting a debugger in render and useEffect.
+Call an actual API call.
+Handle Error in your API call.
+Build Shimmer UI when data is not loaded.
+Render your UI with actual API data.
+Make Search functionality work.
+Make a Login Logout button that toggles with a state.
