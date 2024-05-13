@@ -1,7 +1,6 @@
 {
   "name": "foodyroo",
   "version": "1.0.0",
-  "homepage": "https://fion21.github.io/foodyroo",
   "description": "This is Foodyroo by Fiona Lewis",
   "scripts": {
     "predeploy": "npm run build",
